@@ -1,0 +1,17 @@
+{
+  "name": "Odds & Kelly Calculator",
+  "short_name": "Odds & Kelly",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d1727",
+  "theme_color": "#13233b",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
